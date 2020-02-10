@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UpdateAppLanguage</string>
+    <string name="hello">Hello~Click this text to change language!</string>
+</resources>
